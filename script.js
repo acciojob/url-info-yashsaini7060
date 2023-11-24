@@ -1,1 +1,4 @@
-//your JS code here. If required.
+const a = window.location.href;
+let lenth = a.length;
+
+alert(lenth);
